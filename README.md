@@ -17,7 +17,7 @@ Create an environment using
 
 ## Progress
 
-To view project progress, visit: trello.com/b/gLPiJZaJ/python-recession-forecaster
+To view project progress, visit: [Trello](https://trello.com/b/gLPiJZaJ/python-recession-forecaster)
 
 ## Achknowledgements
 Special thanks to Mortada Mehyar for creating [fredapi](https://github.com/mortada/fredapi)
