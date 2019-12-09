@@ -6,6 +6,10 @@ The United States as of November, 2019 has experienced the longest expansion cyc
 
 The first part is to predict impact on GDP using regression, because NBER defines a recession as ["a significant decline in economic activity"](https://www.nber.org/cycles.html), not 2 consecutive quarters of decline in real GDP. The second part (under construction) is to return a probabilistic model based on classification.
 
+## How to View
+
+Open [recession_forecaster.ipynb](https://github.com/whatguts/python-recession-forecaster/blob/master/recession_forecaster.ipynb)
+
 ## Installation
 
 Create an environment using
